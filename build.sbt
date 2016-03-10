@@ -1,6 +1,6 @@
 organization := "com.github.jw3"
 name := "play-template"
-version := "1.0"
+version := "2.5"
 scalaVersion := "2.11.7"
 
 libraryDependencies ++= {
